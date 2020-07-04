@@ -9,6 +9,7 @@
     android:background="@color/colorInputBackGround"
     android:orientation="vertical">
 
+
     <TextView
         android:id="@+id/result"
         android:layout_width="match_parent"
